@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/real-time-chat/static/css/main.54e62dd8.css",
+    "main.js": "/real-time-chat/static/js/main.3060fe09.js",
+    "static/media/spiner.gif": "/real-time-chat/static/media/spiner.c6c27145734f42ebd78e.gif",
+    "index.html": "/real-time-chat/index.html",
+    "main.54e62dd8.css.map": "/real-time-chat/static/css/main.54e62dd8.css.map",
+    "main.3060fe09.js.map": "/real-time-chat/static/js/main.3060fe09.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.54e62dd8.css",
+    "static/js/main.3060fe09.js"
+  ]
+}
