@@ -1,0 +1,21 @@
+.header {
+  position: fixed;
+  background-color: #fff;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 40px;
+  box-shadow: 0 0 5px 0px rgba(39, 39, 39, 0.4);
+}
+
+.headerInner {
+  height: 40px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+}
+
+.username {
+  margin-right: 20px;
+  color: rgb(39, 39, 39);
+}
