@@ -47,7 +47,6 @@ function ChatPage() {
             <div className={styles.userImgContainer}>
               <img
                 src={message.photoURL}
-                alt="userPhoto"
                 className={styles.userImg} />
             </div>
           </div>
